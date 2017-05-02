@@ -1,0 +1,16 @@
+{
+  "name": "omg",
+  "version": "1.0.0",
+  "description": "Simple database for UPC to deploy to heroku",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server, heroku"
+  ],
+  "author": "Anmol Maini",
+  "dependencies": {
+    "json-server": "^0.9.6"
+  }
+}
